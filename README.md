@@ -8,7 +8,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 https://github.com/goksucikit/kodluyoruzilkrepo.git
 
-
 ```
 
 ## Usage 
@@ -19,10 +18,8 @@ Linux için:
 
 ```
 
-
 cd kodluyoruzilkrepo
 code .
-
 
 ```
 
