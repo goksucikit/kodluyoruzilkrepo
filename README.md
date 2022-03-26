@@ -1,12 +1,13 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![ilkrepo-img](https://user-images.githubusercontent.com/58112028/160240228-995adcfe-8bac-45d8-8e24-8ea7f433dabe.png)
+![ilkrepo-img](https://user-images.githubusercontent.com/58112028/160240321-696b8fc6-d7f5-4ce5-a334-0d29a7ea6df7.png)
 
 ## Installation
 ```
 
 https://github.com/goksucikit/kodluyoruzilkrepo.git
+
 
 ```
 
@@ -18,8 +19,10 @@ Linux için:
 
 ```
 
+
 cd kodluyoruzilkrepo
 code .
+
 
 ```
 
