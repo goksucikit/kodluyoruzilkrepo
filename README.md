@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Project](https://gss.gs/RnZ.png)
+![ilkrepo-img](https://user-images.githubusercontent.com/58112028/160240228-995adcfe-8bac-45d8-8e24-8ea7f433dabe.png)
 
 ## Installation
 ```
