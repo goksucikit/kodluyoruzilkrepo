@@ -4,6 +4,10 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 
 ## Installation
-```https://github.com/goksucikit/kodluyoruzilkrepo.git```
+`
+`
+`https://github.com/goksucikit/kodluyoruzilkrepo.git`
+`
+`
 
 
